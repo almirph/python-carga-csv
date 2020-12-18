@@ -1,0 +1,58 @@
+[
+    {
+    "nomeTabela": "assistencia",
+    "nomePlanilha": "assistencias_segbr.csv",
+    "ids": ["codAssistencia"],
+    "delimiter": ";",
+    "campos": [
+      "codPlano",
+      "nmPlano",
+      "codAssistencia",
+      "nmAssistencia",
+      "lmtAssistencia",
+      "custo",
+      "ambito"
+    ]
+  },
+  {
+    "nomeTabela": "agencia",
+    "nomePlanilha": "agencia.csv",
+    "ids": ["agenciaId"],
+    "delimiter": ";",
+    "campos": [
+      "agenciaId",
+      "bancoId",
+      "nomeAgencia",
+      "dataAlteracao",
+      "usuario",
+      "telefone",
+      "fax",
+      "ddd",
+      "estado",
+      "prefixo",
+      "dvPrefixo",
+      "tipo",
+      "endereco",
+      "complemento",
+      "bairro",
+      "cep",
+      "codigoSuper",
+      "nomeSuper",
+      "codigoRegiao" ,
+      "nomeRegiao",
+      "prefixoDep",
+      "codigo",
+      "dvCodigo",
+      "cgc",
+      "dvCodigo",
+      "cgc",
+      "dvCgc",
+      "dataInst",
+      "cesec",
+      "alteradoUsuario",
+      "diretEstratAgenc",
+      "pilarAtacado",
+      "meioCanalId"
+    ]
+  }
+]
